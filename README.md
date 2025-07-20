@@ -1,0 +1,2 @@
+# TempleteSlicingAngular
+Templete Slicing Angular
